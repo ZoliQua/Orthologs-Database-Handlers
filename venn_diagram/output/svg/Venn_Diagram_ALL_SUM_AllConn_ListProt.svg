@@ -1,0 +1,55 @@
+<svg version='1.0' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='746' height='742' viewBox='-362 -388 746 742' encoding='UTF-8' standalone='no'>
+	<title>Orthology Five-set Venn Diagram</title>
+	<desc>My Orthology Database Five-set Venn Diagram</desc>
+	<defs>
+		<ellipse id='ellipse' cx='36' cy='-56' rx='160' ry='320' />
+		<g id='ellipses'>
+			<use xlink:href='#ellipse' fill='#0000ff' />
+			<use xlink:href='#ellipse' fill='#0099ff' transform='rotate(72)' />
+			<use xlink:href='#ellipse' fill='#00cc00' transform='rotate(144)' />
+			<use xlink:href='#ellipse' fill='#cc9900' transform='rotate(216)' />
+			<use xlink:href='#ellipse' fill='#ff0000' transform='rotate(288)' />
+		</g>
+	</defs>
+	<use xlink:href='#ellipses' fill-opacity='0.3' />
+	<use xlink:href='#ellipses' fill-opacity='0' stroke='#000' stroke-width='2' />
+	<g text-anchor='middle' font-family='sans-serif' font-size='16'>
+		
+		<text x="35" y="-334" style="fill: #FFFFFF; stroke: #424442; stroke-width: 1px; font-size: 22px; font-weight: 900;">A. thaliana</text>
+		<text x="-280" y="-150" style="fill: #FFFFFF; stroke: #424442; stroke-width: 1px; font-size: 22px; font-weight: 900;">H. sapiens</text>
+		<text x="-178" y="232" style="fill: #FFFFFF; stroke: #424442; stroke-width: 1px; font-size: 22px; font-weight: 900;">D. melanogaster</text>
+		<text x="160" y="265" style="fill: #FFFFFF; stroke: #424442; stroke-width: 1px; font-size: 22px; font-weight: 900;">S. cerevisiae</text>
+		<text x="300" y="-80" style="fill: #FFFFFF; stroke: #424442; stroke-width: 1px; font-size: 22px; font-weight: 900;">S. pombe</text>
+		<text x="30"   y="-300" font-size="20">24</text>
+		<text x="300"  y="-48"  font-size="20">870</text>
+		<text x="160"  y="300"  font-size="20">411</text>
+		<text x="-190" y="266"  font-size="20">1738</text>
+		<text x="-280" y="-120" font-size="20">226</text>
+		<text x="180"  y="-130">3115</text>
+		<text x="40"   y="230" >2033</text>
+		<text x="100"  y="-200">3331</text>
+		<text x="-80"  y="-208">1492</text>
+		<text x="190"  y="131" >2052</text>
+		<text x="-190" y="120" >2651</text>
+		<text x="230"  y="40"  >3214</text>
+		<text x="-62"  y="224" font-size="14">1761</text>
+		<text x="-170" y="-150">1752</text>
+		<text x="-222" y="6" font-size="14">3743</text>
+		<text x="90"   y="150" >1015</text>
+		<text x="149"  y="-146" font-size="14">1549</text>
+		<text x="170"  y="-20" >712</text>
+		<text x="-33"  y="217"  font-size="14">1191</text>
+		<text x="-96"  y="-186" font-size="14">388</text>
+		<text x="20"   y="-180">976</text>
+		<text x="-112" y="145" >1206</text>
+		<text x="190"  y="100"  font-size="14">1016</text>
+		<text x="-211" y="32"   font-size="14">1568</text>
+		<text x="-150" y="-80" >1034</text>
+		<text x="-30"  y="160" >654</text>
+		<text x="140"  y="80"  >286</text>
+		<text x="120"  y="-100">620</text>
+		<text x="-60"  y="-140">319</text>
+		<text x="-160" y="20"  >763</text>
+		<text x="5"    y="40"  style="fill: #FFFFFF; stroke: #000000; stroke-width: 3px; font-size: 140px; font-weight: 900;" >255</text>
+</g>
+	</svg>
